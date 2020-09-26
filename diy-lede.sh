@@ -42,6 +42,7 @@ git clone https://github.com/garypang13/luci-app-eqos.git package/lean/luci-app-
 git clone https://github.com/jerrykuku/node-request.git package/lean/node-request  #京东签到依赖
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus  #京东签到
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/lean/luci-app-adguardhome
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol/luci-app-passwall package/lean/luci-app-passwall  #passwall出国软件
 svn co https://github.com/xiaorouji/openwrt-package/trunk/package package/lean/package  #passwall出国软件配套
 
